@@ -1,6 +1,6 @@
 # CS590-Software-Architecture
-Develop a webstore application using microservices with the following functionality.
-Design and develop a webstore application using microservices with the following functionality: 
+
+Designed and developed a webstore application using microservices with the following functionality: 
 1. The customer service contains functionality to maintain customers (add, remove, update, 
 view). A customer has the following attributes: firstName, lastName, Addresss(street, city, 
 zip), phone, email. 
